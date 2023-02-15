@@ -1,7 +1,6 @@
 # Cairo Bootcamp
 
-Jeremy's answers
-
+Jeremy's answers to the Cairo section of the encode ZK bootcamp.
 
 ## Setup:
 
