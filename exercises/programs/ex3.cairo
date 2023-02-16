@@ -1,8 +1,8 @@
 // Perform and log output of simple arithmetic operations
 func simple_math() {
     // adding 13 +  14
-    let x = 13 + 4;
-    %{ print(ids.x) %}
+    let out = 13 + 4;
+    %{ print(ids.out) %}
 
     // multiplying 3 * 6
     let x = 3 * 6;
